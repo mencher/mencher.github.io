@@ -1,2 +1,2 @@
 # appstruct.eu
-appstruct / software company - Design. Build. Run software solutions and services
+appstruct / software company - design, build, run software solutions and services: innovative software, data management, automation, support

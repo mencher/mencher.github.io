@@ -1,2 +1,2 @@
-# appstruct.eu
-appstruct / software company - design, build, run software solutions and services: innovative software, data management, automation, support
+# compresoro
+compresoro / compresoare, motoare, utilaje pentru constructii - solutii si servicii - inchiriere, vanzare, reparatii
